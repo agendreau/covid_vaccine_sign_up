@@ -1,5 +1,5 @@
-# Covid Vaccine Automated Monitoring and Sign Up
-Continually monitor vaccine availability and sign yourself up with a bot when one becomes available
+# Kroger Covid Vaccine Monitoring and Automated Sign Up
+Continually monitor Kroger's COVID vaccine availability and sign yourself up with a bot when one becomes available
 
 This code is based on my recent medium article, which can be found at 
 
