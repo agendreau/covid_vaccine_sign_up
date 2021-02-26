@@ -1,7 +1,7 @@
 # Kroger Covid Vaccine Monitoring and Automated Sign Up
 Continually monitor Kroger's COVID vaccine availability and sign yourself up with a bot when one becomes available
 
-This code is based on my recent medium article, which can be found at 
+This code is based on my recent medium article, which can be found at https://daniel-warren.medium.com/how-to-guarantee-a-covid-19-vaccine-with-python-f4084aaa7414.
 
 This is still a work in progress, so please let me know if you find any issues or if there are specific features you would like me to add.
 
