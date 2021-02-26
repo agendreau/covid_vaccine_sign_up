@@ -155,4 +155,5 @@ while True:
 
     else:
         print('No vaccines available in your area :(')
+        time.sleep(60) # 1 minute wait before next iteration
         driver.refresh()
